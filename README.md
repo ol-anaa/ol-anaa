@@ -11,9 +11,9 @@
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-JV" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Ana-Ard" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-  <img align="right" alt="Ana-gif" src="https://media.discordapp.net/attachments/994658418294009858/994686107830730943/ezgif.com-gif-maker.gif?width=422&height=422">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/994658418294009858/994695940394987650/IMG-20220707-WA0015.jpg?width=422&height=422">
 </div>
-  
+
   ##
  
 <div> 
