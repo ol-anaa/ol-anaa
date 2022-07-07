@@ -1,4 +1,4 @@
-## Oiis eu sou a Ana, uma quase programadora e formanda no ensino médio!
+## Oiis eu sou a Ana, uma quase programadora e formanda no ensino médio! 📚🎓
 <div align="center">
   <a href="https://github.com/ol-anaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ol-anaa&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
@@ -11,7 +11,7 @@
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-JV" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Ana-Ard" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/994658418294009858/994717702688079972/IMG-20220707-WA0020.jpg?width=422&height=422">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/994658418294009858/994719741740593203/rounded-in-photoretrica.png?width=385&height=385">
 </div>
 
   ##
@@ -23,7 +23,4 @@
   <a href="https://www.linkedin.com/in/anaoliveira1603" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/ol-anaa/ol-anaa/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
-
-<!-- ![ezgif com-gif-maker](https://user-images.githubusercontent.com/105469302/177855766-766e01cc-221e-47cd-b25e-908d59ded215.gif) >
