@@ -1,6 +1,6 @@
 ## :heart: Hii I'm Ana, an almost programmer! 
 <div align="center">
-  <img align="center" alt="Ana-gif" height="200em" width="800em" src="git.gif">
+  <img align="center" alt="Ana-gif" src="git.gif">
   <a href="https://github.com/ol-anaa">
     <br><br>
   <a href="https://instagram.com/ol.anaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
