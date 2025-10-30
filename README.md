@@ -1,11 +1,9 @@
-## :heart: Hii I'm Ana, an almost programmer! 
+## :heart: Hi, I'm Ana
 <div align="center">
-  <img align="center" alt="Ana-gif" src="git.gif">
+  <img align="center" alt="Ana-gif"  src="https://github.com/user-attachments/assets/5100ea90-a9f6-438d-bc4a-c4e00e3e2714">
   <a href="https://github.com/ol-anaa">
     <br><br>
-  <a href="https://instagram.com/ol.anaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/q935avyl4rucvwq0oab9o47dz?si=MuFqAUSQSziZOSrsNDlVHg&utm_source=copy-link" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a> 
-  <a href="mailto:oliveiraanabeatrizde510@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:ol.anabiaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anaoliveira1603" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
@@ -26,7 +24,6 @@
         <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
         <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
         <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-        <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
         <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
         <img align="center" alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
     <br><br>
@@ -44,6 +41,4 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ol-anaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ol-anaa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-    
-  ![Snake animation](https://github.com/ol-anaa/ol-anaa/blob/output/github-contribution-grid-snake.svg)
 </div>
