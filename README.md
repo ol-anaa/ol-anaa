@@ -33,12 +33,3 @@
     </ul>
   <ol>
 </div> 
-    
-  ----
-    
-<h3>:bar_chart: &nbsp;Some of my stats</h3>   
-<div align="center" style="display: inline_block">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ol-anaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ol-anaa&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-</div>
