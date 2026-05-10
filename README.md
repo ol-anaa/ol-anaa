@@ -2,8 +2,7 @@
 <div align="center">
   <img align="center" alt="Ana-gif" src="https://github.com/user-attachments/assets/4973fcac-d4cf-4a36-9978-08a271d5b27e" />
   <a href="https://github.com/ol-anaa"/>
-
-   </br><br>
+  <br><br>
   <a href="mailto:ol.anabiaa@gmail.com">
     <img src="https://img.shields.io/badge/Email-ffabbc?style=for-the-badge&color=ffabbc">
   </a>
