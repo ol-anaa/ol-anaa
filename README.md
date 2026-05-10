@@ -1,14 +1,28 @@
-## :heart: Hi, I'm Ana
+<h1>💖 Hi, I'm Ana Oliveira</h1>
 <div align="center">
-  <img align="center" alt="Ana-gif"  src="https://github.com/user-attachments/assets/5100ea90-a9f6-438d-bc4a-c4e00e3e2714">
-  <a href="https://github.com/ol-anaa">
-    <br><br>
-  <a href="mailto:ol.anabiaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anaoliveira1603" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <img align="center" alt="Ana-gif" src="https://github.com/user-attachments/assets/4973fcac-d4cf-4a36-9978-08a271d5b27e" />
+  <a href="https://github.com/ol-anaa"/>
+
+   </br><br>
+  <a href="mailto:ol.anabiaa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ffabbc?style=for-the-badge&color=ffabbc">
+  </a>
+  <a href="https://www.linkedin.com/in/anaoliveira1603" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ffabbc?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
 
-  ----
+<h1>🌸 About Me</h1>
+
+<div align="center">  
   
+</div>
+
+<p align="justify">
+  I'm a Junior Software Engineer and Computer Science student passionate about building modern and scalable applications. 
+  I enjoy working with backend and frontend technologies, exploring new tools, and continuously improving my skills through real-world projects and constant learning.
+</p>
+
 <div style="display: inline_block">
   <h3>:rocket: &nbsp;My skills </h3>
   <h4>Programming Languages and Frameworks</h4>
