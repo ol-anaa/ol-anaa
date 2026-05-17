@@ -1,6 +1,6 @@
 <h1>💖 Hi, I'm Ana Oliveira</h1>
 <div align="center">
-  <img align="center" alt="Ana-gif" src="https://github.com/user-attachments/assets/4973fcac-d4cf-4a36-9978-08a271d5b27e" />
+  <img align="center" alt="Ana-gif" src="https://github.com/user-attachments/assets/81c56653-c165-44d1-bf14-c167790e55e8" />
   <a href="https://github.com/ol-anaa"/>
   <br><br>
   <a href="mailto:ol.anabiaa@gmail.com">
@@ -18,7 +18,7 @@
 </div>
 
 <p align="justify">
-  I'm a Junior Software Engineer and Computer Science student passionate about building modern and scalable applications. 
+  I'm a Software Engineer and Computer Science student passionate about building modern and scalable applications. 
   I enjoy working with backend and frontend technologies, exploring new tools, and continuously improving my skills through real-world projects and constant learning.
 </p>
 
